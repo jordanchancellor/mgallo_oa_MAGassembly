@@ -1,0 +1,6 @@
+# ignore unused files
+drepEVERYTHING.sbatch
+checkm.sbatch
+dastool.sbatch
+drepEVERYTHING.sbatch
+movefastas.sbatch
